@@ -8,11 +8,11 @@
 }
 @font-face {
     font-family: "impact";
-    src: url(https://cdn.kuwa.dev/font/impact.ttf);
+    src: url(/font/impact.ttf);
 }
 @font-face {
     font-family: "SmartFontUI";
-    src: url(https://cdn.kuwa.dev/font/SmartFontUI.otf);
+    src: url(/font/SmartFontUI.otf);
 }
 body{
     width: 100%;
