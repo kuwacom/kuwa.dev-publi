@@ -53,11 +53,11 @@ echo<<<HTML
     <div class="boxs">
     <div class="linklist">
         <div style="display: inline-block;">
-        <h style="font-weight: 500; font-size: 30px;">- リンク集 -</h>
+        <h1 style="font-weight: 500; font-size: 30px;">- リンク集 -</h1>
         <p><span class="emoji"><img src="https://cdn.kuwa.dev/image/?path=icon.png&size=20" width="20px" height="20px" alt="home"></span>Home - <span class="glitch"><span class="noise3"><a href="https://kuwa.dev">kuwa.dev</a></span></span></p>
         <p><span class="emoji"><img src="https://cdn.kuwa.dev/image/?path=discord.png&size=20" width="20px" height="20px" alt="discord"></span>Discord - <span class="glitch"><span class="noise3"><a href="https://kuwa.dev/discord">kuwa.dev/discord</a></span></span></p>
-        <p><span class="emoji"><img src="https://cdn.kuwa.dev/image/?path=kuwa-music.png&size=20" width="20px" height="20px" alt="bot"></span>DiscordBot - <span class="glitch"><span class="noise1"><a href="https://kuwa.dev/discord/bot">kuwa.dev/discord/bot</a></span></span></p>
-        <p><span class="emoji"><img src="https://cdn.kuwa.dev/image/?path=discord-support.png&size=20" width="20px" height="20px" alt="support"></span>DiscordSupport - <span class="glitch"><span class="noise2"><a href="https://kuwa.dev/discord/support">kuwa.dev/discord/support</a></span></span></p>
+        <p><span class="emoji"><img src="https://cdn.kuwa.dev/image/?path=kuwa-music.png&size=20" width="20px" height="20px" alt="bot"></span>DiscordBot - <span class="glitch"><span class="noise1"><a href="https://kuwa.app/discord/">kuwa.app/discord</a></span></span></p>
+        <p><span class="emoji"><img src="https://cdn.kuwa.dev/image/?path=discord-support.png&size=20" width="20px" height="20px" alt="support"></span>DiscordSupport - <span class="glitch"><span class="noise2"><a href="https://kuwa.app/discord/support">kuwa.app/discord/support</a></span></span></p>
         <p><span class="emoji"><img src="https://cdn.kuwa.dev/image/?path=twitter.png&size=20" width="20px" height="20px" alt="discord"></span>Twitter - <span class="glitch"><span class="noise1"><a href="https://kuwa.dev/tw">kuwa.dev/tw</a></span></span></p>
         <p><span class="emoji"><img src="https://cdn.kuwa.dev/image/?path=github-120.png&size=20" width="20px" height="20px" alt="github"></span>GitHub - <span class="glitch"><span class="noise2"><a href="https://kuwa.dev/github">kuwa.dev/github</a></span></span></p>
     </div>
